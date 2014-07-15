@@ -1,7 +1,7 @@
 JVectormap for Austria
 ======================
 
-jqvmap data for austria containing only the 9 states. It is based on the
+[jqvmap](http://jqvmap.com/) data for austria containing only the 9 states. It is based on the
 [mercator map for jvectormap](http://jvectormap.com/maps/countries/austria/),
 keyed by the ISO 3166-2:AT code:
 
