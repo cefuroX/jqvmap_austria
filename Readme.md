@@ -16,4 +16,4 @@ keyed by the ISO 3166-2:AT code:
 * AT-9 	 Vienna
 
 Since we primarily use it for Drupal, all names are send through Drupal.t(), so
-they can easily bea translated.
+they can easily be translated.
